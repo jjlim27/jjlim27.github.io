@@ -1,6 +1,6 @@
 ## Overview
 
-My challenge in frontendmentor.io as a beginner in Frontend Development!
+My first challenge in frontendmentor.io as a beginner in Frontend Development!
 
 Managed to create something that looks similar to the actual design. Please advise if there are any improvements that can be made, thanks!
 
